@@ -42,9 +42,40 @@ Aradhya ERP provides a lightweight **Windows Background Service** that synchroni
 
 ---
 
+## 👨‍💻 Developed & Maintained By
+
+<div align="center">
+
+### 🏢 **[Aradhya Creation](https://aaradhyacreation.in/)**
+*Empowering Businesses & Educational Institutions with Cutting-Edge Software Solutions & Creative Technology.*
+
+[![Aradhya Creation Website](https://img.shields.io/badge/Official_Website-aaradhyacreation.in-1e315a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aaradhyacreation.in/)
+[![Aradhya Creation Instagram](https://img.shields.io/badge/Instagram-@aradhya__creation-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aradhya_creation)
+
+<br>
+
+### 👤 **Rohan Kumar** *(Lead Developer & Founder)*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohansingh62-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohansingh62)
+[![Instagram](https://img.shields.io/badge/Instagram-@rohansingh__62-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rohansingh_62)
+
+</div>
+
+---
+
 ## 📞 Technical Support
 
 For API access or hardware integration help, reach out to our engineering team:
 - **WhatsApp:** [+91 9955882299](https://wa.me/919955882299)
+- **Company Portal:** [https://aaradhyacreation.in/](https://aaradhyacreation.in/)
 - **Email:** [support@aradhyaerp.in](mailto:support@aradhyaerp.in)
 - **Website:** [https://aradhyaerp.in](https://aradhyaerp.in)
+
+<div align="center">
+
+---
+
+**© 2026 [Aradhya ERP Technologies](https://aradhyaerp.in). Developed with ❤️ by [Aradhya Creation](https://aaradhyacreation.in/) & [Rohan Kumar](https://www.linkedin.com/in/rohansingh62). All rights reserved.**  
+*Empowering Education with Intelligent Automation.*
+
+</div>
