@@ -1,2 +1,50 @@
-# school-management-system-docs
-📚 Official Documentation, API specs, hardware integration, and student bulk import templates for Aradhya ERP.
+# 📖 Aradhya ERP — Documentation & Integration Guides
+
+Official documentation, API references, data import schemas, and hardware integration guides for **Aradhya ERP** ([https://aradhyaerp.in](https://aradhyaerp.in)).
+
+---
+
+## 🚀 Quick Navigation
+
+- [Official Website](https://aradhyaerp.in)
+- [Pricing Plans](https://aradhyaerp.in/#pricing)
+- [50+ Modules List](https://aradhyaerp.in/#modules)
+- [Support Contact](https://aradhyaerp.in/contact-us)
+
+---
+
+## 📂 Repository Contents
+
+- **School Onboarding Checklist:** Step-by-step setup for academic sessions, fee heads, classes & sections.
+- **Student Bulk Import Guide:** Clean CSV/Excel data import for student rolls, guardian info & sibling linking.
+- **Fee Structure Configuration:** Tuition fee, transport fee, admission fee schedules & fine policies.
+- **Biometric Machine Agent Setup:** Windows desktop agent synchronization with ZKTeco & eSSL biometric machines.
+- **WhatsApp Gateway Integration:** Automated triggers for attendance, fee dues & exam alerts.
+
+---
+
+## ⚡ Biometric Attendance Machine Integration
+
+Aradhya ERP provides a lightweight **Windows Background Service** that synchronizes physical attendance logs from popular hardware brands (ZKTeco, eSSL, Realtime) to the cloud in real-time.
+
+1. Install the Aradhya ERP Biometric Agent on your school server or reception PC.
+2. Enter your School Secret Key from **Superadmin > Integrations > Biometric**.
+3. Point your biometric device IP (e.g., `192.168.1.201`, Port `4370`) in the agent config.
+4. Fingerprint and RFID punches automatically reflect in both the Admin Dashboard and the Parent Mobile App!
+
+---
+
+## 💎 Pricing Overview
+
+- **Starter Plan:** ₹5 / student / month (₹60/yr) — Core admissions, fee management & report cards.
+- **Standard Plan (All-Inclusive):** ₹10 / student / month (₹120/yr) — 50+ Modules, WhatsApp alerts, Parent App, Teacher App, and Free Website.
+- **Premium Plan:** ₹15 / student / month (₹180/yr) — Everything in Standard + Custom Printed & Delivered Student & Staff ID Cards.
+
+---
+
+## 📞 Technical Support
+
+For API access or hardware integration help, reach out to our engineering team:
+- **WhatsApp:** [+91 9955882299](https://wa.me/919955882299)
+- **Email:** [support@aradhyaerp.in](mailto:support@aradhyaerp.in)
+- **Website:** [https://aradhyaerp.in](https://aradhyaerp.in)
